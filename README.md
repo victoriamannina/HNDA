@@ -1,2 +1,2 @@
 # HNDA
-Hybrid Networking Deployment for AGC
+Hybrid Networking Deployment
